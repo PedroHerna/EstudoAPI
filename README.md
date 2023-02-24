@@ -2,7 +2,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/90341044/221121724-ade56442-59b2-46f8-a185-7c73742e10cc.png" alt="" width="200">
   <br>
-  Projeto para consumir API(ViaCEP) para implementar automatização de cadastro de endereços na plataforma AluraBooks
+  AluraBooks
   <br>
 </h1>
 
